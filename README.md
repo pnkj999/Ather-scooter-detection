@@ -1,1 +1,2 @@
 # Ather-scooter-detection
+Ather had provided a competition byte n battles 2 , in which there was a task to detect there scooter using AI algorithms and they have not provided there dataset , my approach was  using web scrapping i extracted images of ather scooter from web around 500 images and then used augmentatio technique to increase my dataset to 2000 images and then used yolo v8 n model to train my model on rtx 3050 to detect their scooter we were shortlisted , as we achieved accuracy of 92 perent i will public the dataset and ipynb file and weigth file .
